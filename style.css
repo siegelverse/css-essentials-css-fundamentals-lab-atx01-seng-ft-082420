@@ -19,5 +19,14 @@ a {
 }
 
 figcaption {
-  font-size: 
+  font-size: small;
+}
+
+p #featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  
 }
