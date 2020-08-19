@@ -28,5 +28,6 @@ p #featured-property {
 }
 
 #details {
+  display: block;
   
 }
