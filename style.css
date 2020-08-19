@@ -29,5 +29,10 @@ p #featured-property {
 
 #details {
   display: block;
-  
+}
+div {
+  float: left;
+  background-color: black;
+  text-align: center;
+  width: 25%;
 }
